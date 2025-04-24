@@ -53,6 +53,7 @@ git commit -m "Update something"
 git tag v1.0.1
 git push origin v1.0.1
 ```
+Or mannual with workflow_dispatch
 
 3. ✅ This triggers the `publish.yml` GitHub Actions workflow, which:
    - Logs in to GHCR
