@@ -1,0 +1,11 @@
+{
+  "name": "@kworaitthinan-avanade/hello-node-ghcr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "A Dockerized Node.js function that says hello, published to GitHub Container Registry.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kworaitthinan-avanade/hello-node-ghcr"
+  },
+  "license": "MIT"
+}
